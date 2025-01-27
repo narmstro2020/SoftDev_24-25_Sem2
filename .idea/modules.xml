@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Unit 02_Java Generics/Section 02_Java Generics for Collections/Block 07/AssignmentStart/AssignmentStart.iml" filepath="$PROJECT_DIR$/Unit 02_Java Generics/Section 02_Java Generics for Collections/Block 07/AssignmentStart/AssignmentStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftDev_24-25_Sem2.iml" filepath="$PROJECT_DIR$/SoftDev_24-25_Sem2.iml" />
     </modules>
   </component>
