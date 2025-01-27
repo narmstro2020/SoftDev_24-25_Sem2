@@ -19,6 +19,7 @@
 
 - Load StarterCode into a brand new project
 - Discuss the goal and begin making minor changes
+- [Starter Code for Platformer](https://github.com/narmstro2020/Platformer_SEM_2/tree/master)
 
 ## Interactive, Ownership, Resonate
 
