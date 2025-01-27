@@ -1,5 +1,5 @@
 
-# Block 7 Agenda
+# Block 8 Agenda
 - Black Day: Mon, 1/27/2025
 - Gold Day: Tue, 1/28/2025
 
