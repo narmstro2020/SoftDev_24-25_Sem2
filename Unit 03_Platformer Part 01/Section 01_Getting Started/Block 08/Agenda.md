@@ -17,7 +17,8 @@
 
 ## Relevant Instruction
 
-1. Load Existing Project.  
+- Load StarterCode into a brand new project
+- Discuss the goal and begin making minor changes
 
 ## Interactive, Ownership, Resonate
 
