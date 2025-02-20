@@ -1,0 +1,18 @@
+{
+  "calendar": [
+    {
+      "Block 16": {
+        "black_day": "Thu, 2/20/2025",
+        "gold_day": "Fri, 2/21/2025",
+        "topic": "The Comparator<T> interface"
+      }
+    },
+    {
+      "Block 17": {
+        "black_day": "Mon, 2/24/2025",
+        "gold_day": "Tue, 2/25/2025",
+        "topic": "The Platformer: Part 02"
+      }
+    }
+  ]
+}

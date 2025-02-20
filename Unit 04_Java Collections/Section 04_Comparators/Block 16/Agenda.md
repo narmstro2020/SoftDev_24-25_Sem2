@@ -12,7 +12,7 @@
 - Learn about Comparators
 
 ## Review
-- List, Sets, Maps, oh My.  
+- Java Collections  
 
 ## Relevant Instruction
 
