@@ -15,6 +15,7 @@
 - Basics of the Game
 
 ## Relevant Instruction
-
+- Start a New Project (for the last Time) Platformer Finale
+- The rest and src folders are in this block folder
 
 ## Interactive, Ownership, Resonate
