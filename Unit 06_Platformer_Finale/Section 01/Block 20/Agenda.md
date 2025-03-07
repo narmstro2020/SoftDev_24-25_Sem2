@@ -1,7 +1,7 @@
 
 # Block 20 Agenda
 - Black Day: Tue, 3/4/2025
-- Gold Day: Wed, 3/6/2025
+- Gold Day: Thu, 3/7/2025
 
 ## Welcome
 
